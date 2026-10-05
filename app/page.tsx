@@ -722,6 +722,18 @@ export default function HomePage() {
           >
             Commencer mon étude
           </Link>
+          <Link
+            href="/appointment"
+            className="mt-8 inline-block rounded-xl bg-gray-800 px-8 py-4 font-black"
+>
+            Contactez-nous
+          </Link>
+          <Link
+            href="/appointment"
+            className="mt-8 inline-block rounded-xl bg-gray-800 px-8 py-4 font-black"
+>
+            Prendre rendez-vous
+          </Link>
 
         </div>
 
